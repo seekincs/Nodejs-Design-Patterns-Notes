@@ -54,6 +54,8 @@ class MyFactory {
 }
 ```
 
+[源码链接](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/tree/master/Codes/factory)
+
 ## 创建者模式
 
 这也是创建型的设计模式。
@@ -102,6 +104,8 @@ let user = new UserBuilder()
     .withGender('F')
     .build()
 ```
+
+[源码链接](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/tree/master/Codes/builder)
 
 ## 状态模式
 
@@ -184,3 +188,4 @@ class Context {
 }
 ```
 
+[源码链接](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/tree/master/Codes/state)
