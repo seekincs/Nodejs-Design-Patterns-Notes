@@ -232,6 +232,8 @@ class ImageProxy extends Image {
 }
 ```
 
+[源码链接](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/tree/master/Codes/proxy)
+
 ## 装饰器模式
 
 这是一种结构型的设计模式。
@@ -286,6 +288,8 @@ print.print()
 //##
 //**
 ```
+
+[源码链接](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/tree/master/Codes/decorator)
 
 ## 适配器模式
 
@@ -345,7 +349,7 @@ if (adapter.support()) {
 }
 ```
 
-
+[适配器模式](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/tree/master/Codes/adapter)
 
 ## 命令模式
 
@@ -432,3 +436,4 @@ while (choice) {
 }
 ```
 
+[源码链接](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/tree/master/Codes/command)
