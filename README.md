@@ -5,3 +5,4 @@
 - [第五章 Streams](./Notes/Chapter5.md)
 - [第六章 设计模式](./Notes/Chapter6.md)
 - [第七章 模块系统](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/blob/master/Notes/Chapter7.md)
+- [第八章 使用通用的JavaScript构建Web应用](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/blob/master/Notes/Chapter8.md)
