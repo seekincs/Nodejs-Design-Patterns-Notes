@@ -349,7 +349,7 @@ if (adapter.support()) {
 }
 ```
 
-[适配器模式](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/tree/master/Codes/adapter)
+[源码链接](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/tree/master/Codes/adapter)
 
 ## 命令模式
 
