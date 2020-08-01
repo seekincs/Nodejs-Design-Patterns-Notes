@@ -7,4 +7,6 @@
 - [第七章 模块系统](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/blob/master/Notes/Chapter7.md)
 - [第八章 使用通用的JavaScript构建Web应用](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/blob/master/Notes/Chapter8.md)
 - [第九章 高级异步话题](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/blob/master/Notes/Chapter9.md)
+- [第十章 可伸缩性和架构模式](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/blob/master/Notes/Chapter10.md)
+- [第十一章 消息传递和集成模式](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/blob/master/Notes/Chapter11.md)
 - [总结](https://github.com/seekincs/Nodejs-Design-Patterns-Notes/blob/master/Notes/Nodejs_Reading_Notes.md)
