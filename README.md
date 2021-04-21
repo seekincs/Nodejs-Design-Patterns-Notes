@@ -1,6 +1,8 @@
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51kpPf4R0gL._SX399_BO1,204,203,200_.jpg)
 
+Read Online: https://repo.seekincs.com/nodejs-design-patterns-notes/
+
 ### 《Node.js Design Patterns》阅读笔记
 
 - [第三章 带回调的异步控制流模式](./Notes/Chapter3.md)
